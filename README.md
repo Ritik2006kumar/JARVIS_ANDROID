@@ -37,7 +37,6 @@ Text-to-Speech: Android TTS Engine
 
 📂 Project Structure
 
-
 JarvisAssistant
 │
 ├── app
